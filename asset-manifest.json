@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6770e524.chunk.css",
+    "main.js": "/static/js/main.c4e3e9ee.chunk.js",
+    "main.js.map": "/static/js/main.c4e3e9ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.12e6a44c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.12e6a44c.js.map",
+    "static/css/2.818011ed.chunk.css": "/static/css/2.818011ed.chunk.css",
+    "static/js/2.e37fb215.chunk.js": "/static/js/2.e37fb215.chunk.js",
+    "static/js/2.e37fb215.chunk.js.map": "/static/js/2.e37fb215.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.6770e524.chunk.css.map": "/static/css/main.6770e524.chunk.css.map",
+    "static/js/2.e37fb215.chunk.js.LICENSE.txt": "/static/js/2.e37fb215.chunk.js.LICENSE.txt",
+    "static/media/ExpressEmail.90ed6772.png": "/static/media/ExpressEmail.90ed6772.png",
+    "static/media/Family.e626a681.jpeg": "/static/media/Family.e626a681.jpeg",
+    "static/media/FoodApp.ff5383a0.png": "/static/media/FoodApp.ff5383a0.png",
+    "static/media/Internship.0d05dfae.png": "/static/media/Internship.0d05dfae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e6a44c.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e37fb215.chunk.js",
+    "static/css/main.6770e524.chunk.css",
+    "static/js/main.c4e3e9ee.chunk.js"
+  ]
+}
